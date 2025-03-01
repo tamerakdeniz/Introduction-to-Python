@@ -43,14 +43,14 @@ This repository is designed for beginners who want to learn Python programming. 
     python filename.py
 
 ## 📚 Resources
-<a href = "https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br>
-Python Official Documentation <br>
-W3Schools Python <br>
-GeeksforGeeks Python <br>
+- <a href = "https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br>
+- Python Official Documentation <br>
+- W3Schools Python <br>
+- GeeksforGeeks Python <br>
 
 ## 🤝 Contributing
-Fork the project.<br>
-Create a new branch: ```git checkout -b new-feature.<br>```<br>
-Make your changes and commit them: ```git commit -m 'Add new feature'.```<br>
-Push to the branch: ```git push origin new-feature.```<br>
-Create a Pull Request.
+1. Fork the project.<br>
+2. Create a new branch: ```git checkout -b new-feature.<br>```<br>
+3. Make your changes and commit them: ```git commit -m 'Add new feature'.```<br>
+4. Push to the branch: ```git push origin new-feature.```<br>
+5. Create a Pull Request.
